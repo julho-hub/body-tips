@@ -22,4 +22,5 @@
 <li>tome cha/cafe (ajuda para desinchar o rosto)</li>
 <li>diminua consumo de sal</li>
 <li>consuma mais potássio</li>
+<li><img src="https://i.looksmax.org/attachments/2021/12/2637880_23232323232323.png"></li>
 </ul>
