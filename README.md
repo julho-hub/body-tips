@@ -27,9 +27,9 @@
 <li><strong>offtopic=</strong><a href="https://looksmax.org/threads/how-i-achieved-a-chad-physique-naturally-my-detailed-exercise-routine.431952/" target="_blank">rotina de treino boa</a></li>
 <li><a href="https://youtu.be/nShMeIXXmfE" target="_blank">como fazer a sobrancelha(masculina)</a></li>
 <li>Sono=Procure dormir entre 8 e 10 horas para maximizar a produção do hormônio do crescimento (que atinge seu pico durante o sono profundo).</li>
-<li>Nutrição=Vitamina D3 + K2 (gemas de ovo, luz solar e natto)
-Proteínas (carnes e ovos)
-Cálcio (leite, queijo, etc.)
+<li>Nutrição=Vitamina D3 + K2 (gemas de ovo, luz solar e natto)<br>
+Proteínas (carnes e ovos)<br>
+Cálcio (leite, queijo, etc.)<br>
 Zinco (nozes e sementes)</li>
 <li>Outros=Limite o uso do celular tarde da noite e evite a cafeína.
 Luz solar pela manhã (ajuda a dormir melhor, o que aumenta a produção de GH).</li>
