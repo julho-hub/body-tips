@@ -8,3 +8,25 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+#pages-text {
+    border: 2px solid white;
+    border-radius: 100px;
+    width: 200px;
+    margin: 20px auto;
+    background-color: white;
+}
+
+#title-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#title-pages {
+    border: 2px solid white;
+    border-radius: 100px;
+    width: 200px;
+    margin: 20px auto;
+    background-color: white;
+    color: black;
+}
