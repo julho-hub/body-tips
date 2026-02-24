@@ -1,9 +1,9 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(18, 31, 59);
+    background-color:grey;
     margin: 0;
     padding: 20px;
-    color: rgb(219, 231, 253);
+    color: rgb(255, 255, 255);
 }
 
 #title {
@@ -29,5 +29,7 @@ body {
 }
 
 #pages {
-text-align: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
 }
