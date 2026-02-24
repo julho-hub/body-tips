@@ -1,35 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color:grey;
-    margin: 0;
-    padding: 20px;
-    color: rgb(255, 255, 255);
-}
-
-#title {
-    text-align: center;
-}
-
-#sub-title {
-    text-align: center;
-}
-
-.voltar {
-    display: block;
-    margin: 20px auto;
-    padding: 10px 20px;
+    background-color: #121212;
     color: white;
-    text-decoration: none;
-    border-radius: 5px;
     text-align: center;
-}
-
-.img {
-    width: 550px;
-}
-
-#pages {
-    text-align: center;
-    display: flex;
-    flex-direction: column;
 }
