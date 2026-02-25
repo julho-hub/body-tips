@@ -18,15 +18,17 @@ body {
 
 #pages {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
 }
 #pages-text {
-    border: 4px solid white;
-    border-radius: 100px;
+    border: 5px solid white;
+    border-radius: 15px;
     width: 100px;
     margin: 20px auto;
     background-color: white;
     color: black;
+    
 }
 
 #sub-title {
