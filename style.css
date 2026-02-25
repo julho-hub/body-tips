@@ -1,34 +1,6 @@
 body {
-    background-color: #121212;
-    color: white;
+    font-family: Arial, sans-serif;
     text-align: center;
-}
-
-#pages {
-    display: flex;
-    flex-direction: column;
-}
-
-#pages-text {
-    border: 2px solid white;
-    border-radius: 100px;
-    width: 200px;
-    margin: 20px auto;
-    background-color: white;
-}
-
-#title-container {
-    display: flex;
-    flex-direction: column;
-}
-
-#title-pages {
-    border: 2px solid white;
-    border-radius: 100px;
-    width: 200px;
-    margin: 20px auto;
-    background-color: white;
-    color: black;
 }
 
 #img {
@@ -36,4 +8,8 @@ body {
     height: auto;
     display: block;
     margin: 0 auto;
+}
+
+#titulo {
+    text-align: center;
 }
