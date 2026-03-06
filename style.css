@@ -4,9 +4,8 @@ html {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: black;
+    background-color: #19194d;
     color: white;
-    text-align: center;
 }
 
 #img {
@@ -34,4 +33,7 @@ body {
 #sub-title {
     text-align: center;
     color: #888;
+}
+h2, h3, h5, h1 {
+    text-align: center;
 }
