@@ -1,39 +1,124 @@
+/* Configurações Globais */
 html {
     scroll-behavior: smooth;
 }
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #19194d;
-    color: white;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #0f0f1b;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
 }
 
-#img {
-    max-width: 100%;
-    height: auto;
-    display: block;
+.container {
+    max-width: 850px;
     margin: 0 auto;
+    padding: 40px 20px;
 }
 
+/* Títulos Principais */
+#titulo {
+    font-size: 2.8rem;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section-title {
+    font-size: 2rem;
+    color: #00d1ff;
+    text-align: center;
+    margin: 50px 0 25px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+/* Menu de Navegação Estilizado */
 #pages {
     display: flex;
     justify-content: center;
-    gap: 25px;
-}
-#pages-text {
-    border: 5px solid white;
-    border-radius: 15px;
-    width: 100px;
-    margin: 20px auto;
-    background-color: white;
-    color: black;
-    
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
 }
 
-#sub-title {
-    text-align: center;
-    color: #888;
+.pages-item {
+    text-decoration: none;
+    color: #00d1ff;
+    border: 2px solid #00d1ff;
+    padding: 8px 18px;
+    border-radius: 50px;
+    font-weight: bold;
+    transition: all 0.3s ease;
 }
-h2, h3, h5, h1 {
+
+.pages-item:hover {
+    background-color: #00d1ff;
+    color: #0f0f1b;
+    box-shadow: 0 0 15px rgba(0, 209, 255, 0.4);
+}
+
+/* Cartões (Cards) - Padronizados */
+.card {
+    background-color: #16213e;
+    padding: 25px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    border: 1px solid #252545;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+.card-title {
+    color: #ffffff;
+    margin-top: 0;
+    font-size: 1.4rem;
+    border-left: 4px solid #00d1ff;
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+
+/* Imagens */
+.img-content {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #1a1a2e;
+}
+
+/* Listas e Links */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+a {
+    color: #00d1ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer e Divisores */
+.back-link {
+    display: block;
     text-align: center;
+    margin-top: 60px;
+    font-size: 1.2rem;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #333, transparent);
+    margin: 50px 0;
 }
